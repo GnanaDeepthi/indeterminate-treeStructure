@@ -1,7 +1,7 @@
 # Indeterminate Tree Structure
 
 Indeterminate tree structure component is created using Angular 4 and it is useful to have tristate checkboxes
-![alt text](https://github.com/GnanaDeepthi/indeterminate-tree-structure/blob/master/images/image.png)
+![alt text](https://github.com/GnanaDeepthi/indeterminate-treeStructure/blob/master/images/image.png)
  
 
 To preview demo of Indeterminate TreeStructure component, [Click here](https://angular-x4t5vc.stackblitz.io)
